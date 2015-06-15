@@ -1,9 +1,12 @@
 {
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"findreplace_small": true,
+	"font_size": 10,
 	"ignored_packages":
 	[
-		"Material Theme",
 		"Vintage"
 	],
-	"theme": "Material-Theme.sublime-theme"
+	"sidebar_medium": true,
+	"tabs_small": true,
+	"theme": "predawn-DEV.sublime-theme"
 }
