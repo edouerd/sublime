@@ -4,7 +4,10 @@
 	],
 	"installed_packages":
 	[
+		"Material Color Scheme",
+		"Material Theme",
 		"Package Control",
-		"Predawn"
+		"Predawn",
+		"SCSS"
 	]
 }
